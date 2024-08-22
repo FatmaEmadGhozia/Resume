@@ -8,7 +8,7 @@
     background-color: rgb(81, 89, 107);
 }
 .right-part {
-    width:650px;
+    width:665px;
 }
 img {
     width: 160px;
@@ -26,8 +26,6 @@ img {
 .p-name {
     color :rgb(81, 89, 107);
     font-size: 50px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
 }
 .name {
     margin-left: 100px;
@@ -36,11 +34,6 @@ img {
     font-size: 30px;
     color :rgb(81, 89, 107);
     margin-top: -20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-   
-}
-.description {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .line1 {
     background-color: rgb(81, 89, 107); 
@@ -60,7 +53,7 @@ img {
     background-color: rgb(81, 89, 107);
    
 }
-.work-exp {
+.p-name,.position,.description,.work-exp
+{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    
 }
